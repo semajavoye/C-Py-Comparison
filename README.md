@@ -35,7 +35,7 @@ python prime_python.py
 
 Running on an AMD Ryzen 5 3600 with 64 GB of RAM, the results were:
 
-| Language | Execution Time | Number of Primes | Compiler/Interpreter     |
+| Language | Execution Time | Number of Primes | Compiler/Interpreter      |
 |----------|----------------|------------------|---------------------------|
 | C++      | 0.3344 seconds | 78,498           | g++ 13.2.0                |
 | C++      | 0.3257 seconds | 78,498           | g++ 13.2.0 (`-O2` flag)   |
